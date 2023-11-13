@@ -1,2 +1,2 @@
 # PortugolStudios
-Trabalho feitos na IDE de Portugol visando entender a logica de programação e alguns conceitos como: Vetor, Matrix, Pilha, Fila e Método de gerenciamento de valores (MegerSort).
+Aqui deixo salvo arquivos de projetos que fiz na IDE portugol. Exercitando a logica de programação e comandos basicos para estrutura de um codigo, como: Vetor, Matriz, Pilha, Fila. E metodos de organização de valores em matrizes e vetores sendo o BubbleeSort e MegerSort.
